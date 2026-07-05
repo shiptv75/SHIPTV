@@ -74,6 +74,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 https://jagroniakash.ncare.live/unmochontv/unmochontv.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png" group-title="Kolkata",Zee Bangla
 https://stream.ottplus.live/live/zee_bangla_abr/index.m3u8
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=CowXUjfcmE0Jc30mRk&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rwd1rei.png" group-title="Bangla",Anirban
 https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg21ZAgQbK7cWgg1jsBXguoD2T4TNjPxPDY0-fhefmIhX6SucV6RmhP_GbxvUTc3zUBCyuCVPM2Aylb_NbFqTDrIvMYhMGYO3iYMNDKvIWFF9MgSV3sTe2zPxHGnXQYvu9wbPUNxRgQz8Y_3V7Skc-vHbqSpEe-5J-G_NuBGAUrCtqWaplTaubIbpzsKw/s600/Nur_20251216_230424_0000.png" group-title="Kids",Motu Patlu
@@ -214,3 +215,5 @@ https://sm-monirul.top/tof/live/toffee5/index.m3u8
 https://kazimmt.ami.bd/playlist/TF/TF-5.m3u8
 #EXTINF:-1 tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/06/24/6490a7ce043bb_com.banglalink.toffeetv.png" group-title="Fifa Worldcup",Toffee
 https://sm-monirul.top/tof/live/toffee6/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" tvg-chno=" group-title="Kolkata", Sony Aath
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=Zffvji8FFa41ui0OG9&e=.m3u8
