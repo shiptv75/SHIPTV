@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Bangladesh_Television_Logo.svg" group-title="Bangla",BTV
-https://monirul.bro.bd/btv.php
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1280px-Banglavision.svg.png" group-title="Bangla",Bangla Vision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg" group-title="Bangla",Deepto TV
@@ -151,7 +149,7 @@ https://mflixott.com/tv/toffee-by-maruf/live.php?id=CowXUjfcmE0Jc30mRk&e=.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/as/6/67/Gopal_Bhar_animated_TV_series_title_card.jpeg" group-title="Kids",Gopal Vhar
-https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hPFhzrTG/20250529_121624.png" group-title="Music",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
@@ -281,14 +279,11 @@ https://vods2.aynaott.com/hindimovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToiJVIGNSn7deu31FGYjz9xunHzqiRtIReiQ&s" group-title="Fifa Worldcup",Bioscope
 https://cricxtv.fun/bioscope.php?file=index_3.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png" group-title="Fifa Worldcup",T Sports
-https://mflixott.com/tv/dd/live.php?id=270&cid=270
-
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Fifa Worldcup",Fifa Worldcup
 https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcBqUL-wmsfXvLFzXCEIFirVhYuxmJwwJByt7Y1gGSog&s" group-title="Fifa Worldcup",Dazn
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/500px-Win_Sports_nuevo_logo.svg.png" group-title="Fifa Worldcup",Win Sports
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
@@ -302,8 +297,6 @@ https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/34/2/tyc-sports-logo-png_seeklogo-340604.png" group-title="Fifa Worldcup",TyC Sports
 https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Logotipo_de_TV_Azteca.png/1280px-Logotipo_de_TV_Azteca.png" group-title="Fifa Worldcup",TV Azteca
-https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/_9Iz8w2Ke_iHRjlgyUCz2HDSlujDqu-L-eOjsRUnUCKDRhZ97SIQCI2R4A4nwJ-Cz_qde3-t004NG3aBRbQRAiw" group-title="Fifa Worldcup",TUDN
 https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
@@ -319,9 +312,6 @@ https://himelhimuishere.pages.dev/fwc2k26.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr6VG7FT-oKqGjRr0bCumf6on7eFOoEbjMahVy27vaozWLVKu7SAvD75Lm&s=10" group-title="Fifa Worldcup",ESPN
 https://1nyaler.streamhostingcdn.top/stream/99/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Fifa Worldcup",Mahsun Sports
-https://andro.226503.xyz/checklist/androstreamliveexn2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.advanced-television.com/wp-content/uploads/2020/11/beinSportsX.png" group-title="Fifa Worldcup",Bein Xtra
 https://d9ssxzmclhfo4.cloudfront.net/bein_sports720p.m3u8
@@ -347,33 +337,8 @@ https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RGeLxjv.png" group-title="Sports",Star Sports-1 Hindi
 https://starsportshindiii.pages.dev/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/06/24/6490a7ce043bb_com.banglalink.toffeetv.png" group-title="Fifa Worldcup",Toffee
-http://sm-monirul.top/tof/live/toffee1/index.m3u8
-#EXTINF:-1 tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/06/24/6490a7ce043bb_com.banglalink.toffeetv.png" group-title="Fifa Worldcup",Toffee
-https://kazimmt.ami.bd/playlist/TF/TF-1.m3u8
-#EXTINF:-1 tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/06/24/6490a7ce043bb_com.banglalink.toffeetv.png" group-title="Fifa Worldcup",Toffee
-http://sm-monirul.top/tof/live/toffee2/index.m3u8
-#EXTINF:-1 tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/06/24/6490a7ce043bb_com.banglalink.toffeetv.png" group-title="Fifa Worldcup",Toffee
-https://kazimmt.ami.bd/playlist/TF/TF-2.m3u8
-#EXTINF:-1 tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/06/24/6490a7ce043bb_com.banglalink.toffeetv.png" group-title="Fifa Worldcup",Toffee
-http://sm-monirul.top/tof/live/toffee3/index.m3u8
-#EXTINF:-1 tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/06/24/6490a7ce043bb_com.banglalink.toffeetv.png" group-title="Fifa Worldcup",Toffee
-https://kazimmt.ami.bd/playlist/TF/TF-3.m3u8
-#EXTINF:-1 tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/06/24/6490a7ce043bb_com.banglalink.toffeetv.png" group-title="Fifa Worldcup",Toffee
-https://sm-monirul.top/tof/live/toffee4/index.m3u8
-#EXTINF:-1 tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/06/24/6490a7ce043bb_com.banglalink.toffeetv.png" group-title="Fifa Worldcup",Toffee
-https://kazimmt.ami.bd/playlist/TF/TF-4.m3u8
-#EXTINF:-1 tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/06/24/6490a7ce043bb_com.banglalink.toffeetv.png" group-title="Fifa Worldcup",Toffee
-https://sm-monirul.top/tof/live/toffee5/index.m3u8
-#EXTINF:-1 tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/06/24/6490a7ce043bb_com.banglalink.toffeetv.png" group-title="Fifa Worldcup",Toffee
-https://kazimmt.ami.bd/playlist/TF/TF-5.m3u8
-#EXTINF:-1 tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/06/24/6490a7ce043bb_com.banglalink.toffeetv.png" group-title="Fifa Worldcup",Toffee
-https://sm-monirul.top/tof/live/toffee6/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="Kolkata",Sony Aath
 https://mflixott.com/tv/toffee-by-maruf/live.php?id=Zffvji8FFa41ui0OG9&e=.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="Kolkata",Sony Aath
-https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Kolkata",Star Jalsha
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
