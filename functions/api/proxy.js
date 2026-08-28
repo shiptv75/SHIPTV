@@ -7,8 +7,23 @@
 // সিক্রেট আইডি (প্রয়োজনে পরিবর্তন করুন)
 const EXPIRE_CODE = "554075";
 
-// মূল M3U প্লেলিস্ট URL (নিজের রিপোর playlist.m3u)
-const PLAYLIST_URL = "https://raw.githubusercontent.com/shiptv75/SHIPTV/refs/heads/main/playlist.m3u";
+// ---------------------------------------------------------
+// একাধিক প্লেলিস্ট এখানে যোগ করুন — key হবে শর্টকাট নাম (URL-এ ব্যবহৃত হবে)
+// লিংক হবে: /api/proxy/<key>-554075.m3u
+// যেমন: /api/proxy/shiptv-554075.m3u , /api/proxy/tapmad-554075.m3u
+// ---------------------------------------------------------
+const PLAYLISTS = {
+  shiptv: "https://raw.githubusercontent.com/shiptv75/SHIPTV/main/playlist.m3u",
+  fastiptv: "https://raw.githubusercontent.com/ahan443/FAST-IPTV/refs/heads/main/z.m3u",
+  tapmad: "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u",
+  fancode: "https://raw.githubusercontent.com/sportlive18/Fancode-New-Auto-Update/refs/heads/main/fancode.m3u",
+  xniptv: "https://raw.githubusercontent.com/tvbd/m3uplayer/refs/heads/main/m3u/xniptv.m3u"
+  // নোট: HridoyTV সোর্সটি JSON ফরম্যাটে, তাই এই M3U-রিরাইট রুটে যোগ করা হয়নি।
+  // ওটা লাগলে ?url= দিয়ে সরাসরি CORS পাস-থ্রু হিসেবে ব্যবহার করুন (নিচে দেখুন)।
+};
+
+// যদি কেউ পুরনো লিংক (/api/proxy/playlist-...) ব্যবহার করে, সেটা কোন প্লেলিস্ট দেখাবে (ডিফল্ট)
+const DEFAULT_PLAYLIST_KEY = "shiptv";
 // ===================================================
 
 const CORS_HEADERS = {
@@ -32,17 +47,34 @@ export async function onRequest(context) {
   const targetUrlParam = url.searchParams.get('url');
 
   // ---------------------------------------------------------
-  // ১. M3U প্লেলিস্ট রিকোয়েস্ট (যেমন: /api/proxy/playlist-expire=48436844.m3u)
+  // ১. M3U প্লেলিস্ট রিকোয়েস্ট
+  //    সাপোর্টেড ফরম্যাট:
+  //      /api/proxy/live-554075.m3u      → PLAYLISTS.live
+  //      /api/proxy/movies-554075.m3u    → PLAYLISTS.movies
+  //      /api/proxy/playlist-554075.m3u  → DEFAULT_PLAYLIST_KEY (পুরনো লিংক ব্যাকওয়ার্ড কম্প্যাটিবিলিটি)
   // ---------------------------------------------------------
-  if (!targetUrlParam && (requestUrl.includes('.m3u') || requestUrl.includes('playlist-expire'))) {
+  const m3uFilename = url.pathname.split('/').pop() || '';
+  const m3uMatch = m3uFilename.match(/^([a-zA-Z0-9_]+)(?:-[a-zA-Z0-9]+)?\.m3u8?$/i);
+
+  if (!targetUrlParam && m3uMatch) {
 
     // সিকিউরিটি কোড যাচাইকরণ
     if (EXPIRE_CODE && !requestUrl.includes(EXPIRE_CODE)) {
       return jsonResponse({ error: 'Access Denied: Invalid or Expired ID' }, 403);
     }
 
+    // নাম থেকে সঠিক প্লেলিস্ট বের করা ("playlist" মানে ডিফল্ট প্লেলিস্ট)
+    let playlistKey = m3uMatch[1].toLowerCase();
+    if (playlistKey === 'playlist') playlistKey = DEFAULT_PLAYLIST_KEY;
+
+    const selectedPlaylistUrl = PLAYLISTS[playlistKey];
+
+    if (!selectedPlaylistUrl) {
+      return jsonResponse({ error: `Unknown playlist: "${playlistKey}"` }, 404);
+    }
+
     try {
-      const response = await fetch(PLAYLIST_URL, {
+      const response = await fetch(selectedPlaylistUrl, {
         headers: {
           'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'
         }
