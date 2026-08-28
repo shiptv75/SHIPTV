@@ -1,14 +1,14 @@
 // ===================================================
 // Cloudflare Pages Function
 // এই ফাইলটি রাখুন: functions/api/proxy.js
-// অ্যাক্সেস হবে: https://yoursite.pages.dev/api/proxy
+// অ্যাক্সেস হবে: https://shamimiptv.pages.dev/api/proxy
 // ===================================================
 
 // সিক্রেট আইডি (প্রয়োজনে পরিবর্তন করুন)
 const EXPIRE_CODE = "554075";
 
-// মূল M3U প্লেলিস্ট URL
-const PLAYLIST_URL = "https://raw.githubusercontent.com/ahan443/FAST-IPTV/refs/heads/main/z.m3u";
+// মূল M3U প্লেলিস্ট URL (নিজের রিপোর playlist.m3u)
+const PLAYLIST_URL = "https://raw.githubusercontent.com/shiptv75/SHIPTV/refs/heads/main/playlist.m3u";
 // ===================================================
 
 const CORS_HEADERS = {
