@@ -49,7 +49,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/1720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rwd1rei.png" group-title="Bangla",Anirban
 https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYgUPIeK2sHBBKCZhv0_qCqnOTmsUjyo-qLv5cH3-hFlpT6acwuasAnIFt&s=10" group-title="Bangla",Nexus TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYgUPIeK2sHBBKCZhv0_qCqnOTmsUjyo-qLv5cH3-hFlpT6acwuasAnIFt&s=10" group-title="Bangla",Nexus
 https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png" group-title="Sports",T Sports
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
