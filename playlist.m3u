@@ -303,22 +303,6 @@ https://vods2.aynaott.com/hindimovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToiJVIGNSn7deu31FGYjz9xunHzqiRtIReiQ&s" group-title="sports",Bioscope
 https://cricxtv.fun/bioscope.php?file=index_3.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_sports_nuevo_logo.svg/500px-Win_sports_nuevo_logo.svg.png" group-title="sports",Win sports
-https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://media01.tr.beinsports.com/img/video_list/757/7131/original/images.png" group-title="sports",beIN sports
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/dsports-logo-png_seeklogo-626310.png" group-title="sports",D sports
-https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/34/2/tyc-sports-logo-png_seeklogo-340604.png" group-title="sports",TyC sports
-https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/_9Iz8w2Ke_iHRjlgyUCz2HDSlujDqu-L-eOjsRUnUCKDRhZ97SIQCI2R4A4nwJ-Cz_qde3-t004NG3aBRbQRAiw" group-title="sports",TUDN
-https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://mycielo.org/wp-content/uploads/2020/10/telemundo-logo.png" group-title="sports",Telemundo
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
@@ -333,9 +317,6 @@ https://tvsen5.aynaott.com/espn/index.m3u8?e=1779283793&u=78be6644-0a65-48ec-81a
 
 #EXTINF:-1 tvg-logo="https://www.advanced-television.com/wp-content/uploads/2020/11/beinsportsX.png" group-title="sports",Bein Xtra
 https://d9ssxzmclhfo4.cloudfront.net/bein_sports720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.smartsheet.com/sites/default/files/Fox%20sports%20Logo.png" group-title="sports",FOX sports
-https://d1jzu95oc8fgt3.cloudfront.net/FOX_sports720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDvBJRoVBiF_h-Jp7GKyHGBzKzbT6akBW5-3JtntSLlA&s=10" group-title="sports",BEIN sports 4
 https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs4.m3u8
@@ -376,9 +357,6 @@ https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="Indian",SONY ENTERTAINMENT TELEVISION
 https://mflixott.com/tv/toffee-by-maruf/live.php?id=xkgzHA5enqqtqCoFEP&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8vDGmaeBBsKTHnWp3oAfC4V_138ivTtxwuGFZO8IxSAVINn5Z1uHQKsxF&s=10" group-title="sports",Sky sports Cricket
-https://atc.hopto.org/sly-sprts-cricket-hd-sport/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="sports",Willow
 https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1779283803&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2fe7bf4f892cf09f80087b8146545bad
@@ -641,10 +619,7 @@ https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8#fb:M3U_World_4K
 https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Sports",Sony Sports-5
 https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8#fb:M3U_World_4K
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Sports",Star Sports 2
-https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8#fb:M3U_World_4K
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Sports",Star Sports 2 [Backup]
-https://tvsen7.aynaott.com/ssport2hd/index.m3u8#fb:M3U_World_4K
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Sports",Star Sports 3
 http://103.114.11.37:8081/Star-sports-3/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Sports",Star Sports Select 1
@@ -930,8 +905,6 @@ https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8#skym3u.dev
 http://6764400.calivorn.cc/live/MAG2UHMP6K/2poLclRsIj/1020177.m3u8?token=ShNaUBdYGlhBVQ9XAABWXlddWFMIUwJQXQFRVF9YUVMHUlBVUlNZVwZHG0EVTEBdAAlmDVQUWwVVBVFUUQ5NQ0RCV0M7WVxAWUcBVFAMBghRRhVGRF8MUUcNUUlESQgFEwsQA1QEAFZXURVPRF1KTAQWVwVcaQVRE14CAEQDDxRdXR4TC15nBgYIVg0CGggaUUYVRllFERZfWRQJChVDA1hFQFAQVRpYQVEEWlQaHhoCC0wKREQYFl8VIyFEFUMESUVXXxdZVwxBXxUOVU0KGk1GUBdvRARHEUUEBAtcE0MLEwITSBJVAxs6VAwIVldbFQ1WCkMUWxZUFU1HC1YPCEVeQG4UWVxAWUcFUlEPCxoc#skym3u.dev
 #EXTINF:-1 tvg-name="Zee Cinema" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Zee Cinema
 http://103.135.253.32:8080/ZEE-CINEMA/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="HBO" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",HBO
-https://tvsen7.aynaott.com/hbo/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="MN+" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",MN+
 http://103.135.253.32:8080/MN-PLUS/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Sony Pix" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Sony Pix
@@ -972,10 +945,7 @@ http://103.135.253.32:8080/HUNGAMA/index.m3u8#skym3u.dev
 https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Rongeen TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Space Toon" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Space Toon
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/manifest/video/720p1750kbps/video.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Sony Yay" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Sony Yay
-http://103.135.253.32:8080/SONY-YAY/index.m3u8#skym3u.dev
+
 #EXTINF:-1 tvg-name="CGTN Documentary" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",CGTN Documentary
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",CNA
@@ -1034,10 +1004,6 @@ https://bein-xtra-bein.amagi.tv/playlist.m3u8#skym3u.dev
 http://103.135.253.32:8080/WILLOW-SPORTS/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Sky Sports Football" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Sky Sports Football
 http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9289/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="TSN 2" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",TSN 2
-https://tvsen7.aynaott.com/tsn2/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="TSN 3" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",TSN 3
-https://tvsen7.aynaott.com/tsn3/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Willow Sports 2" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Willow Sports 2
 https://tvsen7.aynaott.com/Sports1/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Talk Sport" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Talk Sport
