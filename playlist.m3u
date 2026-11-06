@@ -293,51 +293,41 @@ https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b8960
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Kolkata",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="অন্যান্য",Colors
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Indian",Colors
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/media-udh.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="অন্যান্য",Hum TV
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Pakistani",Hum TV
 https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="অন্যান্য",Sony One Hite
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Hollywood",Sony One Hite
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="অন্যান্য",HUM SITARAY HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Pakistani",HUM SITARAY HD
 https://j6nfugukcl.gpcdn.net/tile_2/master.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="অন্যান্য",Music India
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Music",Music India
 https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="অন্যান্য",9XM
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Music",9XM
 https://wiselp.wiseplayout.com/9XM/master.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="অন্যান্য",G Series
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla",G Series
 https://vods2.aynaott.com/gseriesDrama/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="অন্যান্য",ATN News
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="News",ATN News
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="অন্যান্য",Bangla Vision
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla",Bangla Vision
 https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="অন্যান্য",Bangla TV
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla",Bangla TV
 https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="অন্যান্য",RTV
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla",RTV
 https://tvsen5.aynaott.com/ba47dHpDk3Se/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="অন্যান্য",Boishakhi TV
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla",Boishakhi TV
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="অন্যান্য",NRB TV
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla",NRB TV
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="অন্যান্য",iON TV
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla",iON TV
 https://app.ncare.live/live-orgin/iontvuk.stream/playlist.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="অন্যান্য",Al Quran Al Kareem
-https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="অন্যান্য",DD Bangla
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="অন্যান্য",kolkata TV
-https://tvsen6.aynaott.com/kolkatatv/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="অন্যান্য",Epic Crimes
-https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="অন্যান্য",Goldmines
-https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="অন্যান্য",Dhoom Music Bangla
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Music",Dhoom Music Bangla
 https://cdn.devm3u.top/server5/dhoom.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="অন্যান্য",Only Music
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Music",Only Music
 https://mumbai-edge.smartplaytv.in/OnlyMusic/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="অন্যান্য",Sangeet Bangla
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Music",Sangeet Bangla
 https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="অন্যান্য",Epic Music
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Music",Epic Music
 https://cc-3cyxq80qusspd.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/d68f6612-3a4e-4ed4-9853-fc41801678d1/2.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="অন্যান্য",YRF Music
 https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8#skym3u.dev
