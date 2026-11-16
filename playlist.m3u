@@ -199,8 +199,6 @@ https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/b4u-movies.png" group-title="HINDI",B4U Movies
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj4QJIbm5AJUR2DxA4ChOekh2jveNwgRSfqjvBkoyomA&s=10" group-title="HINDI MUSIC",Baallee
-https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",A Sports
 https://playztv-apps.pages.dev/a-sports/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-logo="" group-title="Sports",A Sports HD
@@ -269,8 +267,6 @@ https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8#skym3u.dev
 https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="" group-title="Bangla",G TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="" group-title="Music",Jolsha Bangla BD
-https://dish.porosh.com.bd/hls/jalshabangla.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="" group-title="Bangla",Ananda TV
 https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="" group-title="Bangla",BHI Channel
@@ -335,15 +331,10 @@ https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8#skym3u.dev
 https://cc-3cyxq80qusspd.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/d68f6612-3a4e-4ed4-9853-fc41801678d1/2.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="" group-title="Music",YRF Music
 https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="" group-title="Music",Balle Balle
-https://mcncdndigital.com/worldpunjabitv/index.m3u8#skym3u.dev
-
 #EXTINF:-1 tvg-logo="" group-title="Music",9X Jalwa
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="" group-title="Music",YRF Music
 https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="" group-title="Music",Baallee
-https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="" group-title="Bangla",Ananda TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="" group-title="Bangla",ATN Bangla
@@ -426,8 +417,6 @@ https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg0
 https://cdn.devm3u.top/server5/jalshamovies.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="" group-title="Movies",ZB CINEMA
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="" group-title="Music",ZB MUSIC
-https://server.zillarbarta.com/zbmusic/tracks-v1a1/mono.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="" group-title="Music",SAGA Music
 https://amg01412-xiaomiasia-sagamusic-xiaomi-h54ye.amagi.tv/playlist/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="" group-title="Music",RANA MUSIC
@@ -748,7 +737,7 @@ https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/840NTLs6/Picsart-24-10-18-15-11-32-440.webp" group-title="INDIA BANGLA",10Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/23dGnxBn/Picsart-24-10-18-15-06-46-163.webp" group-title="INDIA BANGLA",Zee Bangla
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/23dGnxBn/Picsart-24-10-18-15-06-46-163.webp" group-title="Kolkata",Zee Bangla
 https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlggrg8ZrPgKX8aNSpQwF3ZnQ8iJp4aeYEy5VDKeEpKudDoYFaWQCsLG0pytJY1xJaLRF-amEOBvBYiSmcDzm07g4ApDAvkawVzQkErykaaTWcGPt7_arMD81i-LcpCGAjQd_ugcYQf7Ec2Ha8nrJbYoAkdRatYZQRiASl2FVfv9cD5Euc3dVBumuHa9oD/s2048/17348.png" group-title="INDIA BANGLA",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
@@ -792,8 +781,6 @@ https://tvsen5.aynaott.com/willowhd/index.m3u8
 https://starsportshindiii.pages.dev/720p.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgchyphenhyphenntXTihziGy-H7BehkEiQZE5Cclggwy8X0L0VDeeXmzgUnpryXy9lCKuycienzA3puQDhnG6WN4-f1T-ojkJjWYAaDRS1456xbZ56yjihnI7P8g9os8J-F3b25v1XkiwAcsQCuVfIQE0JL_4cMW3DVZFdKCn0alLIyoBpQGSuS3ul4PQtJfrH-llis/s1600/BhojpuriCinemaComedyLogoDesign_copy_900x900_1.png" group-title="INDIAN",Cinema
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/27YmqwvW/Picsart-25-10-13-13-27-54-767.webp" group-title="MUSIC",JoMusic
-https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/hJsGPKN4/Picsart-25-10-13-13-28-48-007.webp" group-title="MUSIC",8XM
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="bangla",NTV
@@ -1034,7 +1021,7 @@ https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/840NTLs6/Picsart-24-10-18-15-11-32-440.webp" group-title="INDIA BANGLA",10Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/23dGnxBn/Picsart-24-10-18-15-06-46-163.webp" group-title="INDIA BANGLA",Zee Bangla
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/23dGnxBn/Picsart-24-10-18-15-06-46-163.webp" group-title="Kolkata",Zee Bangla
 https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlggrg8ZrPgKX8aNSpQwF3ZnQ8iJp4aeYEy5VDKeEpKudDoYFaWQCsLG0pytJY1xJaLRF-amEOBvBYiSmcDzm07g4ApDAvkawVzQkErykaaTWcGPt7_arMD81i-LcpCGAjQd_ugcYQf7Ec2Ha8nrJbYoAkdRatYZQRiASl2FVfv9cD5Euc3dVBumuHa9oD/s2048/17348.png" group-title="INDIA BANGLA",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
@@ -1098,8 +1085,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 https://d2esfk1pb9cdob.cloudfront.net/chunklist_1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Zoom
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",PTC MUSIC HD
-https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",DD Sports 2.0
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",DD SPORTS
@@ -1162,8 +1147,6 @@ https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",9X JALWA
 https://wiselp.wiseplayout.com/9X_Jalwa/SD216/SD216.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",9XM MUSIC
-https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QRnM89n/20240825-071012.png?ref=skym3u.dev" group-title="Bangla",Rajdhani
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4SwWtd3/20240822-225840.png?ref=skym3u.dev" group-title="News",ATN News
