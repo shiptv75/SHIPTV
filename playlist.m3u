@@ -505,18 +505,12 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n4FwCmT.png" group-title="Documentary",CNA Originals
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist480p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="English",Al Jazeera
-https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/channelsukup.jpg?x71442" group-title="Others",Channel S UK
-https://cd198.anystream.uk:9092/web/tvchsuk03/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/08/deshebideshe-1.jpg" group-title="Others",Deshe Bideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/10/iontvuk.jpg?x67896" group-title="Others",I ON TV UK
 https://app.ncare.live/live-orgin/iontvuk.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.bizasialive.com/wp-content/uploads/2022/09/islam-channel001.jpg" group-title="Others",Islam Bangla
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamchbangla.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/VL2R8JVwHx4PtQPmNYG2oP7o22HOuGDy3mQZXa-uEhjRLAqpgZjL5yk0vlBaGnt7KQ" group-title="Others",NTV Europe
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/live-orgin/ntvuk00332211.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/1317_1.png" group-title="Others",Oman TV
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b900000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b38wNPK.png" group-title="Others",Oman TV Cultural
@@ -645,8 +639,6 @@ https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jVBfQNj.png" group-title="Sports",Mundial
 https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zvPTkPjH/IJH47f-J.png" group-title="Documentory",Discover Pakistan
-https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Y4W1JNn2/Picsart-24-10-18-14-23-02-130.webp" group-title="BANGLA",ATN Bangla
 https://tvsen5.aynaott.com/atnbangla/index.m3u8?e=1779283752&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e20058ae495a80a83ec09cb9d82b9253
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ymSz101j/Picsart-24-10-19-11-25-09-917.webp" group-title="BANGLA",MadaniTV
@@ -683,8 +675,6 @@ https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlggrg8ZrPgKX8aNSpQwF3ZnQ8iJp4aeYEy5VDKeEpKudDoYFaWQCsLG0pytJY1xJaLRF-amEOBvBYiSmcDzm07g4ApDAvkawVzQkErykaaTWcGPt7_arMD81i-LcpCGAjQd_ugcYQf7Ec2Ha8nrJbYoAkdRatYZQRiASl2FVfv9cD5Euc3dVBumuHa9oD/s2048/17348.png" group-title="INDIA BANGLA",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtnRBztxwWeqF-rG9ktBr5DFeAhwfCLBH-nSPJyimm30MJynxYhflbwMptU0Q1cE3kmR9YjDWaTwNOJ1EGtSyxV7fCWGRhyphenhyphenu4XSwZSE7rQdmLZ1hcEwewfZdM1XGO9Jc0bk224GXKV5Jh1hjlBWl2CWv2hj8jl4GWTZmWuB19mc-RV0y5INSmoF-I43CD7/s2048/17708.png" group-title="DISCOVERY",National BD
-https://tvsen6.aynaott.com/natgeo/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/qL8X3Q7s/Picsart-25-10-05-13-26-45-989.webp" group-title="KIDS",SKR TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/tMTYX469/Picsart-25-10-13-13-57-22-602.webp" group-title="KIDS",Duck Tv
@@ -917,8 +907,6 @@ https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jVBfQNj.png" group-title="Sports",Mundial
 https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zvPTkPjH/IJH47f-J.png" group-title="Documentory",Discover Pakistan
-https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Y4W1JNn2/Picsart-24-10-18-14-23-02-130.webp" group-title="BANGLA",ATN Bangla
 https://tvsen5.aynaott.com/atnbangla/index.m3u8?e=1779283752&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e20058ae495a80a83ec09cb9d82b9253
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ymSz101j/Picsart-24-10-19-11-25-09-917.webp" group-title="BANGLA",MadaniTV
@@ -1219,7 +1207,7 @@ https://mumbai-edge.smartplaytv.in/OnlyMusic/index.m3u8
 https://stream.ottlive.co.in/punjabihits/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Saga Music
 https://amg01412-xiaomiasia-sagamusic-xiaomi-h54ye.amagi.tv/playlist/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Muvies",Tabbar Hits
+#EXTINF:-1 tvg-logo="" group-title="Movies",Tabbar Hits
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Zoom TV
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
@@ -1231,8 +1219,6 @@ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla",NTV
 https://tvsen5.aynaott.com/JHPxHAWonztVucyc4GzF/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="অন্যান্য",Deepto TV
-https://tvsen5.aynaott.com/tK2BNdfsdfsdf/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",Ekhon TV
 https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",Duronto TV
